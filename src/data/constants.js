@@ -371,7 +371,7 @@ export const projects = [
       portfolio,
     tags: [`React Js | Tailwind.css | JavaScript | Web3Forms `],
     
-    github: "https://github.com/Srinath22082005/Srinath22082005",
+    github: "https://github.com/Srinath22082005/MyPortfolio",
     
   },
   {
