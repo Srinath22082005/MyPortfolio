@@ -399,7 +399,7 @@ export const projects = [
       todolist,
     tags: [`JAVA`],
     
-    github: "https://github.com/Srinath22082005/Srinath22082005",
+    github: "https://github.com/Srinath22082005/to-do-list_FullStackApp",
     
   },
   
