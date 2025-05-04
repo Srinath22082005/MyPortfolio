@@ -397,7 +397,7 @@ export const projects = [
       "📝Organizes tasks efficiently, helping manage priorities and deadlines",
     image:
       todolist,
-    tags: [`JAVA`],
+    tags: [`JAVA`,'REACT','SPRING BOOT','POSTMAN'],
     
     github: "https://github.com/Srinath22082005/to-do-list_FullStackApp",
     
