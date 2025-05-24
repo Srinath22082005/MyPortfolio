@@ -33,6 +33,7 @@
     "react-vertical-timeline-component": "^3.6.0",
     "styled-components": "^6.1.17",
     "sweetalert2": "^11.17.2",
+    "swiper": "^11.2.8",
     "three": "^0.167.1",
     "typewriter-effect": "^2.21.0"
   },

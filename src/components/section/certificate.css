@@ -1,0 +1,7 @@
+
+img{
+    
+     max-width: 100%;      /* responsive, won't exceed container */
+  max-height: 250px;    /* max height */
+  object-fit: contain;
+}

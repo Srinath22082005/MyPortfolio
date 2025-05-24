@@ -10,8 +10,17 @@ import { Projects } from "./components/section/Projects";
 import { Contact } from "./components/section/Contact";
 import { Footer } from "./components/section/Footer";
 import { useState } from "react";
+import CertificateSlider from "./components/section/CertificateSlider"
 
 //  create styled components
+const Container = styled.div`
+  display: flex;
+  flex-direction: column;
+  justify-contnet: center;
+  position: rlative;
+  z-index: 1;
+  align-items: center;
+`;
 const Body = styled.div`
   background-color: ${({ theme }) => theme.bg};
   width: 100%;
@@ -59,6 +68,9 @@ function App() {
 
           {/*  projects */}
           <Projects darkMode={darkMode} setDarkMode={setDarkMode} />
+
+          {/*certificates */}
+          <CertificateSlider darkMode={darkMode} setDarkMode={setDarkMode}/>
 
           <Wrapper>
             <EducationSection darkMode={darkMode} setDarkMode={setDarkMode} />
