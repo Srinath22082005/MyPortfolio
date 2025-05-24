@@ -8,17 +8,17 @@ import 'swiper/css/autoplay';
 import './certificate.css'
 
 
-import img0 from '../../images/certificates/img0.jpeg';
-import img1 from '../../images/certificates/img1.jpg';
-import img2 from '../../images/certificates/img2.jpeg';
-import img3 from '../../images/certificates/img3.jpeg';
-import img4 from '../../images/certificates/img4.jpeg';
-import img5 from '../../images/certificates/img5.jpeg';
-import img6 from '../../images/certificates/img6.jpeg';
-import img7 from '../../images/certificates/img7.jpeg';
-import img8 from '../../images/certificates/img8.jpeg';
-import img9 from '../../images/certificates/img9.jpeg';
-import img10 from '../../images/certificates/img10.jpeg';
+import img0 from '../../images/Certificates/img0.jpeg';
+import img1 from '../../images/Certificates/img1.jpg';
+import img2 from '../../images/Certificates/img2.jpeg';
+import img3 from '../../images/Certificates/img3.jpeg';
+import img4 from '../../images/Certificates/img4.jpeg';
+import img5 from '../../images/Certificates/img5.jpeg';
+import img6 from '../../images/Certificates/img6.jpeg';
+import img7 from '../../images/Certificates/img7.jpeg';
+import img8 from '../../images/Certificates/img8.jpeg';
+import img9 from '../../images/Certificates/img9.jpeg';
+import img10 from '../../images/Certificates/img10.jpeg';
 
 const certificates = [
   { id: 0, image: img0 },
