@@ -289,7 +289,7 @@ export const HeroSection = ({ isMobileMenuOpen }) => {
               <Description>{Bio.description}</Description>
             </motion.div>
 
-            <ResumeButton to={Bio?.resume} target="_blank">
+            <ResumeButton href={Bio?.resume} download="Srinath_S_Resume.pdf">
               Check Resume
             </ResumeButton>
           </HeroLeft>
