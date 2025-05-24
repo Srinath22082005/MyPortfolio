@@ -20,8 +20,8 @@ export const Bio = {
   description:
     "Passinate Full Stack Developer, AI/ML enthusiast, and aspiring Blockchain Developer with expertise in Java (Spring Boot), React.js, Node.js, Python (for ML/DL), and blockchain technologies like Ethereum and Solidity. Passionate about solving real-world problems through full stack development, AI/ML, and decentralized solutions.",
   github: "https://github.com/Srinath22082005",
-  // resume:
-  //   "https://drive.google.com/file/d/1ERCCbbHkyPG5JxMFU0Lih7Rh6iYjWVK-/view?usp=drive_link",
+  resume:
+    "https://drive.google.com/file/d/1Cu8SMkaiwRT1C-Xt7ijJJSbVcVMv3RY7/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/srinath-s-0354082b3/",
   insta: "https://www.instagram.com/mad_mask_01/",
   leetcode:"https://leetcode.com/u/Srinath_Sp1/",
