@@ -1,4 +1,4 @@
-// src/components/CertificateSlider.jsx
+
 import { Swiper, SwiperSlide } from 'swiper/react';
 import { Autoplay } from 'swiper/modules';
 import styled from "styled-components";
