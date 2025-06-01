@@ -3,7 +3,7 @@ import styled from "styled-components";
 import { Bio } from "../../data/constants";
 import TypeWriter from "typewriter-effect";
 import { Link as LinkR } from "react-router-dom";
-import heroImg from "../../images/sri.jpg";
+import heroImg from "../../images/Srinathpro.jpg";
 import HeroAnimation from "../HeroBgAnimation";
 import { Tilt } from "react-tilt";
 import { motion } from "framer-motion";
